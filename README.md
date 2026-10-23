@@ -6,7 +6,7 @@ A unified repository containing two software engineering projects developed duri
 
 A banking and ledger project focused on object-oriented programming, transaction workflows, and structured software design.
 
-**Project folder:** `banking ledger project/`
+**Project folder:** `OOPS-SYSTEM-DESIGN-INTERN/banking ledger project/`
 
 **Original repository:**  
 https://github.com/SYEDHABIBULLAH-AZAM/OOPS-SYSTEM-DESIGN-INTERN
@@ -24,7 +24,7 @@ https://github.com/SYEDHABIBULLAH-AZAM/notification-alert-dispatch-framework
 
 ## Repository Structure
 
-- `banking ledger project/` — Banking and ledger engine
+- `OOPS-SYSTEM-DESIGN-INTERN/banking ledger project/` — Banking and ledger engine
 - `Notification-Alert-Dispatch-Framework/` — Notification framework
 
 ## Purpose
